@@ -1,3 +1,5 @@
+package model;
+
 public class Aluno {
     private String nome;
     private String matricula;
@@ -12,6 +14,6 @@ public class Aluno {
 
     @Override
     public String toString() {
-        return "Aluno: " + nome + " (Matrícula: " + matricula + ")";
+        return "model.Aluno: " + nome + " (Matrícula: " + matricula + ")";
     }
 }

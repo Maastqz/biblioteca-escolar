@@ -1,3 +1,9 @@
+package view;
+
+import controller.Biblioteca;
+import model.Aluno;
+import model.Livro;
+
 public class Main {
     public static void main(String[] args) {
         Biblioteca minhaBiblio = new Biblioteca();

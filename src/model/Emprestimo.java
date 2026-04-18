@@ -1,3 +1,5 @@
+package model;
+
 public class Emprestimo {
     private Aluno aluno;
     private Livro livro;
